@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#0EA5E9"          # Azul Cyan Neón para acciones principales
+backgroundColor = "#0F172A"       # Azul Slate Oscuro de fondo
+secondaryBackgroundColor = "#1E293B" # Color de tarjetas y barra lateral
+textColor = "#F8FAFC"             # Blanco suave de alta legibilidad
+font = "sans serif"
+
+[client]
+showErrorDetails = true
